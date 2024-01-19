@@ -1,0 +1,7 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project1\Debug\Project.exe
+C:\CS271\Project1 - Copy\Debug\Project.exe
+C:\CS271\Week 7\Project 5 Arrays, Addressing, and Stack parameters\Debug\Project.exe
+C:\CS271\Week 7\Array Filling\Debug\Project.exe
+C:\CS271\Week 7\Practice code\Debug\Project.exe
+C:\CS271\Week 8\StringManipulator\Debug\Project.exe

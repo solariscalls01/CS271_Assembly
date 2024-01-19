@@ -1,0 +1,2 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project 1 Basic Logic and Arithmetic\Debug\Project.exe

@@ -1,0 +1,5 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project 0\Debug\Project.exe
+C:\CS271\Project 0 - Copy\Debug\Project.exe
+C:\CS271\Week 9\Project 6 - String Primitives and Macros\Debug\Project.exe
+C:\CS271\Week 9\Practice_Macro\Debug\Project.exe

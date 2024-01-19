@@ -1,0 +1,6 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project1\Debug\Project.exe
+C:\CS271\Project1 - Copy\Debug\Project.exe
+C:\CS271\Practice\Debug\Project.exe
+C:\CS271\Practice_2\Debug\Project.exe
+C:\CS271\Practice_3\Debug\Project.exe

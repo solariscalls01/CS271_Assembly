@@ -1,0 +1,9 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project1\Debug\Project.exe
+C:\CS271\Project1 - Copy\Debug\Project.exe
+C:\CS271\Practice\Debug\Project.exe
+C:\CS271\Practice_2\Debug\Project.exe
+C:\CS271\Practice_3\Debug\Project.exe
+C:\CS271\Practice_4 - Indirect Operands\Debug\Project.exe
+C:\CS271\Week 7\Practice_5 - Register Indirect Addressing\Debug\Project.exe
+C:\CS271\Week 7\Practice_6 - Modifying Array Values\Debug\Project.exe
